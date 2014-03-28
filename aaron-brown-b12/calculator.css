@@ -1,0 +1,13 @@
+.calculator {
+  margin: 15em auto;
+  width:15em;
+}
+#result {
+  display:block;
+  background-color:#c0c0c0;
+  text-align:right;
+  padding:0.5em;
+}
+input {
+  display:block;
+}
